@@ -79,18 +79,11 @@ This README provides a brief overview of the tool, installation instructions, an
 
 
 
-+----------------------------------------------SUPPORT--------------------------------------------------+
-
++----------------------------------------------CONTACT--------------------------------------------------+
 
 
 
 Author tg : t.me/RichardAlmeyda
-
-
-
-USDT TRC20 : TTttSQ274h6bEAbtS2mbLNQVg3K3HiSU6y
-
-BTC : 1AbHQdVVLzAGQv153UnJmvKsmWdX6sEfjk
 
 
 +------------------------------------------LICENSE------------------------------------------------+
