@@ -79,12 +79,6 @@ This README provides a brief overview of the tool, installation instructions, an
 
 
 
-+----------------------------------------------CONTACT--------------------------------------------------+
-
-
-
-Author tg : t.me/RichardAlmeyda
-
 
 +------------------------------------------LICENSE------------------------------------------------+
 
