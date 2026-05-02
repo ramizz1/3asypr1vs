@@ -16,7 +16,7 @@ def print_banner():
                     .-. :                          
                     `._.'                          
 {Style.RESET_ALL}
-Coded by R1chardAlmeyda
+Coded by github.com/ramizz1
 """
     print(banner)
 
